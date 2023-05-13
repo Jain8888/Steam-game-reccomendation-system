@@ -1,2 +1,2 @@
 # Steam-game-reccomendation-system
-Using collaborative filtering and content based filtering concepts to model a recommendation for steam 
+Using collaborative filtering and content based filtering concepts to model a recommendation system for steam 
